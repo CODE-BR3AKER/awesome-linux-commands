@@ -17,6 +17,13 @@ A curated collection of essential Linux commands that are helpful to learn for b
 
 > used to navigate through the file system.
 
+| Command | Description                                                       | Example                                                                                                     |
+|---------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| cd      | Changes the current working directory.                            | cd /home/user/Documents changes the working directory to the Documents folder in the user's home directory. |
+| ls      | Lists the files and directories in the current working directory. | ls -l lists the files and directories in long format.                                                       |
+| pwd     | Prints the current working directory.                             | pwd returns the full path of the current working directory.                                                 |
+
+
 <h2 id="section2">2- File and directory commands</h2>
 
 > used to create, delete, copy, and move files and directories.
