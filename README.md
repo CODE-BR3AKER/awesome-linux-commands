@@ -9,9 +9,9 @@ A curated collection of essential Linux commands that are helpful to learn for b
 - [5- Network commands](#section5)
 - [6- User and group commands](#section6)
 - [7- Package management commands](#section7)
-- Process management commands - used to manage processes and their resources.
-- System information commands - used to display information about the system, such as hardware information, system uptime, and system version.
-- Security commands - used to manage system security, such as configuring firewall rules, setting file permissions, and managing user authentication.
+- [8- Process management commands](#section8)
+- [9- System information commands](#section9)
+- [10- Security commands](#section10)
 
 <h2 id="section1">1- Navigation commands</h2>
 
@@ -37,6 +37,18 @@ A curated collection of essential Linux commands that are helpful to learn for b
 
 > used to manage user accounts and groups on the system.
 
-<h2 id="section7>7- Package management commands</h2>
+<h2 id="section7">7- Package management commands</h2>
 
 > used to manage packages and software on the system.
+
+<h2 id="section8">8- Process management commands </h2>
+
+> used to manage processes and their resources.
+
+<h2 id="section9">9- System information commands</h2>
+
+> used to display information about the system, such as hardware information, system uptime, and system version.
+
+<h2>10- Security commands</h2>
+
+> used to manage system security, such as configuring firewall rules, setting file permissions, and managing user authentication.
