@@ -68,7 +68,7 @@ A curated collection of essential Linux commands that are helpful to learn for b
 | `ps` | List running processes | `ps aux` |
 | `top` | Display system resource usage | `top` |
 
-<h2 id="section5">5- Network commands s</h2>
+<h2 id="section5">5- Network commands</h2>
 
 > used to manage network-related tasks such as connecting to remote servers, checking network status, and managing network interfaces.
 
